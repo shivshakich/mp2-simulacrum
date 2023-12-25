@@ -17,6 +17,8 @@ public:
 
 	TQueue& operator=(const TQueue& q);		// оператор копирования
 
+	int GetCount() const { return count; }
+
 	int IsEmpty() const;					// проверка на пустоту
 	int IsFull() const;						// проверка на заполненность
 

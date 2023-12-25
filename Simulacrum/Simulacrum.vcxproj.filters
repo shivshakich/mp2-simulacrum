@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\header files\TQueue.h">
+    <ClInclude Include="TTask.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="TTask.h">
+    <ClInclude Include="..\header files\TQueue.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
